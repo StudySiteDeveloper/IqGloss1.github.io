@@ -44,7 +44,7 @@ article {
     padding-right: 2em;
     padding-left: 0em;
 }
-.art-header  {
+.art-title  {
     font-weight: bold;
     font-variant:small-caps;
     font-size: 120%;
@@ -57,9 +57,17 @@ article {
     margin-left: 0.1em;
     margin-right: 0.1em;
 }
+.art-subtitle {
+    font-weight: bold;
+    font-variant:small-caps;
+    /*margin-top: 0.1em;*/
+    margin-bottom: 0.0em;
+    margin-right: 0.1em;    
+}
 .art-summary {
-	border: 1px solid light;
+	/*border: 1px solid;*/
     padding: 5px;
+    border-spacing: 5px;
     text-align:left;
     background-color: lightgray;
     color: black;
@@ -150,20 +158,20 @@ article {
     margin-left: 0.0em;
     margin-right: 0.0em;
 }
-.art-ol {
+.art-ul {
     border: 1px solid light;
     text-align:left;
     padding-top: 0.0em;
     padding-bottom: 0.1em;
     padding-left: 0.1em;
     padding-right: 2em;
-    margin-top: 0.1em;
+    margin-top: 0.0em;
     margin-bottom: 0.5em;
     margin-left: 1em;
     margin-right: 0.1em;    
 }
 .art-quote  {
-    margin-top: 0.1em;
+    margin-top: 0.0em;
     margin-bottom: 0.5em;
     margin-left: 1em;
     margin-right: 0.1em;
