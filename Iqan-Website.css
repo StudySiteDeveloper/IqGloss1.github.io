@@ -60,9 +60,10 @@ article {
 .art-subtitle {
     font-weight: bold;
     font-variant:small-caps;
-    /*margin-top: 0.1em;*/
-    margin-bottom: 0.0em;
-    margin-right: 0.1em;    
+    margin-top: 0.0em;
+    margin-bottom: 0.3em;
+    margin-left: 0.06em;
+    margin-right: 0.1em;
 }
 .art-summary {
 	/*border: 1px solid;*/
@@ -119,7 +120,7 @@ article {
     padding-right: 0.1em;
     margin-top: 0.1em;
     margin-bottom: 0.0em;
-    margin-left: 0.1em;
+    margin-left: 0.125em;
     margin-right: 0.1em;
 }
 .art-fig-caption {
